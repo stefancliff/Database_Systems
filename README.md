@@ -1,2 +1,3 @@
-# Database_Systems
-In here I'll attach the various screen snippets that show off the Data Modeler projects I made during the course "Databases".
+# Database (Logical and Relational views)
+
+Using Oracle's Data Modeler, we were tasked we creating and showing the flow of logic and connection between different data entries.
